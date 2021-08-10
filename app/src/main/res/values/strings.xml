@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Input Data Diri</string>
+    <string name="txt_title">DATA DIRI</string>
+    <string name="txt_nama_depan">Nama Depan</string>
+    <string name="txt_nama_belakang">Nama Belakang</string>
+    <string name="btn_show_result">Tampilkan</string>
+    <string name="txt_asal_daerah">Asal Daerah</string>
+    <string name="result_nama_lengkap">Nama Lengkap</string>
+    <string name="empty" />
+    <string name="txt_is">:  </string>
+</resources>
